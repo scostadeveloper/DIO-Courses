@@ -14,3 +14,23 @@ IMC em adultos Condição:
 - Entre 30 e 40, Obeso;
 - Acima de 40 Obesidade grave;
 */
+
+let peso = 90;
+let altura = 1.69;
+let imc = peso / (altura*altura);
+
+if(imc < 18.5){
+    console.log("Você está abaixo do peso");
+}
+else if(imc >= 18.5 && imc < 25){
+    console.log("Você está no peso ideal");
+}
+else if(imc >= 30 && imc < 40){
+    console.log("Você está obeso");
+}
+else if(imc >= 40){
+    console.log("Você tem obesidade grave");
+}
+else{
+    console.log("Digite seu peso e sua altura");;
+}
