@@ -1,0 +1,14 @@
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\bin\Debug\net7.0\EXEMPLOEXPLORANDO.exe
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\bin\Debug\net7.0\EXEMPLOEXPLORANDO.deps.json
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\bin\Debug\net7.0\EXEMPLOEXPLORANDO.runtimeconfig.json
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\bin\Debug\net7.0\EXEMPLOEXPLORANDO.dll
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\bin\Debug\net7.0\EXEMPLOEXPLORANDO.pdb
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\EXEMPLOEXPLORANDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\EXEMPLOEXPLORANDO.AssemblyInfoInputs.cache
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\EXEMPLOEXPLORANDO.AssemblyInfo.cs
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\EXEMPLOEXPLORANDO.csproj.CoreCompileInputs.cache
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\EXEMPLOEXPLORANDO.dll
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\refint\EXEMPLOEXPLORANDO.dll
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\EXEMPLOEXPLORANDO.pdb
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\EXEMPLOEXPLORANDO.genruntimeconfig.cache
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\EXEMPLOEXPLORANDO\obj\Debug\net7.0\ref\EXEMPLOEXPLORANDO.dll

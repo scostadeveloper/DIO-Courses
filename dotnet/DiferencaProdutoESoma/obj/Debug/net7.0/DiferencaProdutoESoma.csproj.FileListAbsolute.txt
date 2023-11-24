@@ -1,0 +1,14 @@
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\bin\Debug\net7.0\DiferencaProdutoESoma.exe
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\bin\Debug\net7.0\DiferencaProdutoESoma.deps.json
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\bin\Debug\net7.0\DiferencaProdutoESoma.runtimeconfig.json
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\bin\Debug\net7.0\DiferencaProdutoESoma.dll
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\bin\Debug\net7.0\DiferencaProdutoESoma.pdb
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\DiferencaProdutoESoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\DiferencaProdutoESoma.AssemblyInfoInputs.cache
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\DiferencaProdutoESoma.AssemblyInfo.cs
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\DiferencaProdutoESoma.csproj.CoreCompileInputs.cache
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\DiferencaProdutoESoma.dll
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\refint\DiferencaProdutoESoma.dll
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\DiferencaProdutoESoma.pdb
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\DiferencaProdutoESoma.genruntimeconfig.cache
+C:\Users\C.SESOAR\Documents\_DotNet\DiferencaProdutoESoma\obj\Debug\net7.0\ref\DiferencaProdutoESoma.dll

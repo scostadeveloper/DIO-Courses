@@ -1,0 +1,14 @@
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\EncaixaOuNao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\EncaixaOuNao.AssemblyInfoInputs.cache
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\EncaixaOuNao.AssemblyInfo.cs
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\EncaixaOuNao.csproj.CoreCompileInputs.cache
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\bin\Debug\net7.0\EncaixaOuNao.exe
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\bin\Debug\net7.0\EncaixaOuNao.deps.json
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\bin\Debug\net7.0\EncaixaOuNao.runtimeconfig.json
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\bin\Debug\net7.0\EncaixaOuNao.dll
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\bin\Debug\net7.0\EncaixaOuNao.pdb
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\EncaixaOuNao.dll
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\refint\EncaixaOuNao.dll
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\EncaixaOuNao.pdb
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\EncaixaOuNao.genruntimeconfig.cache
+C:\Users\C.SESOAR\Documents\_DotNet\EncaixaOuNao\obj\Debug\net7.0\ref\EncaixaOuNao.dll

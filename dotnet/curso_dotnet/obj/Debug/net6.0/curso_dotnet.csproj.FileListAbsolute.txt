@@ -1,0 +1,14 @@
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\curso_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\curso_dotnet.AssemblyInfoInputs.cache
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\curso_dotnet.AssemblyInfo.cs
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\curso_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\bin\Debug\net6.0\curso_dotnet.exe
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\bin\Debug\net6.0\curso_dotnet.deps.json
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\bin\Debug\net6.0\curso_dotnet.runtimeconfig.json
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\bin\Debug\net6.0\curso_dotnet.dll
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\bin\Debug\net6.0\curso_dotnet.pdb
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\curso_dotnet.dll
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\refint\curso_dotnet.dll
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\curso_dotnet.pdb
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\curso_dotnet.genruntimeconfig.cache
+C:\Users\C.SESOAR\Documents\_DotNet\curso_dotnet\obj\Debug\net6.0\ref\curso_dotnet.dll

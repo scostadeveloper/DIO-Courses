@@ -1,0 +1,14 @@
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\bin\Debug\net7.0\csharp.exe
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\bin\Debug\net7.0\csharp.deps.json
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\bin\Debug\net7.0\csharp.runtimeconfig.json
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\bin\Debug\net7.0\csharp.dll
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\bin\Debug\net7.0\csharp.pdb
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\csharp.AssemblyInfoInputs.cache
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\csharp.AssemblyInfo.cs
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\csharp.dll
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\refint\csharp.dll
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\csharp.pdb
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\csharp.genruntimeconfig.cache
+C:\Users\C.SESOAR\Documents\DIO-Courses\csharp\obj\Debug\net7.0\ref\csharp.dll
